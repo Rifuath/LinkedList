@@ -1,7 +1,3 @@
-Certainly! Here's a brief description for your GitHub repository that details the linked list project:
-
----
-
 # Simple Linked List Implementation in C++
 
 ## Project Overview
