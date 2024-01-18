@@ -1,4 +1,9 @@
 # Simple Linked List Implementation in C++
+## How to Build 
+```
+$ make
+
+```
 
 ## Project Overview
 This project is a C++ implementation of a basic linked list data structure. It demonstrates fundamental concepts such as dynamic memory management, pointers, and class design in C++. The linked list allows for various operations that are essential for understanding how linear data structures work in a low-level programming language like C++.
